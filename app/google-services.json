@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "64679163826",
+    "firebase_url": "https://fir-demo-4e4fe-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-demo-4e4fe",
+    "storage_bucket": "fir-demo-4e4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64679163826:android:5274be5873cf5e6042d6ab",
+        "android_client_info": {
+          "package_name": "com.example.cloudcomputing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwtVlGCXA6rrlv5u3SsxPmjtE7I5poQKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
